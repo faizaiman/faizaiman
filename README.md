@@ -16,4 +16,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ 20302e1e-9c6e-43a1-b72e-2db66f420a09}}
           GH_TOKEN: ${{ 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}}
+          
+          - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 20302e1e-9c6e-43a1-b72e-2db66f420a09 }}
+          GH_TOKEN: ${{ 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 }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
 <!--END_SECTION:waka-->
