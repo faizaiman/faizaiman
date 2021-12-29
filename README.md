@@ -53,19 +53,16 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Java                     6 mins              ████████████████████████░   97.47% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-NetBeans                 6 mins              ████████████████████████░   97.47% 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BestFit                  6 mins              ████████████████████████░   97.47% 
-My Application           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -84,5 +81,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faizaiman/faizaiman/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/12/2021
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
