@@ -14,7 +14,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 42 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 24.4 kB Used in GitHub's Storage 
  > 
@@ -53,16 +53,19 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     8 mins              ██████████████████░░░░░░░   74.24% 
+HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+PHP                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+flutter_application_1    8 mins              ██████████████████░░░░░░░   74.24% 
+test                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.76%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +84,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faizaiman/faizaiman/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
