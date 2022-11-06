@@ -10,13 +10,13 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
 > 📦 32.7 kB Used in GitHub's Storage 
  > 
@@ -94,5 +94,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faizaiman/faizaiman/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 20:47:53 UTC
+ Last Updated on 06/11/2022 18:43:16 UTC
 <!--END_SECTION:waka-->
