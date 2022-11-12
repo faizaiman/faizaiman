@@ -1,7 +1,6 @@
 <h2> Hello👋, I'm Mohamad Faiz Aiman! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 #### 📚I'm Software Engineer student at University Kuala Lumpur, Malaysia 🇲🇾
-###  🧑🏻‍💻I'm Google Developer Student Club Tech Lead
 ###  ❤️ I like to talk about tech 
 
 
