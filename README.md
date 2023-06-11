@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,19 +52,19 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-HTML                     3 hrs 54 mins       █████████████████░░░░░░░░   69.19 % 
-Python                   1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+HTML                     4 hrs 3 mins        ███████████████░░░░░░░░░░   61.74 % 
+Python                   2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          5 hrs 39 mins       █████████████████████████   100.00 % 
+FaceRecognition          6 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       ████████████████████████░   97.33 % 
-Mac                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Windows                  6 hrs 18 mins       ████████████████████████░   95.82 % 
+Mac                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,5 +84,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 16:11:56 UTC
+ Last Updated on 11/06/2023 16:36:11 UTC
 <!--END_SECTION:waka-->
