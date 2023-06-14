@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,19 +52,22 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-HTML                     4 hrs 3 mins        ████████████████░░░░░░░░░   62.97 % 
-Python                   2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.95 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+PHP                      4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
+HTML                     4 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
+Python                   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          6 hrs 27 mins       █████████████████████████   100.00 % 
+FaceRecognition          6 hrs 27 mins       ███████████████░░░░░░░░░░   60.51 % 
+vristo-php-main          4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       ████████████████████████░   97.74 % 
-Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Windows                  10 hrs 30 mins      █████████████████████████   98.63 % 
+Mac                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -84,5 +87,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 16:13:37 UTC
+ Last Updated on 14/06/2023 16:38:50 UTC
 <!--END_SECTION:waka-->
