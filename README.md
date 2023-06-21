@@ -52,17 +52,16 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 10 mins       █████████████████████████   99.15 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vristo-php-main          4 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -82,5 +81,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2023 16:13:06 UTC
+ Last Updated on 21/06/2023 16:37:52 UTC
 <!--END_SECTION:waka-->
