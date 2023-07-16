@@ -52,19 +52,16 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████░░░░░░░░░░░░░   47.96 % 
-Text                     8 mins              ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-HTML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FaceRecognition          19 mins             ████████████████░░░░░░░░░   62.37 % 
-FaceRecognitionAttendance11 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -84,5 +81,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2023 16:13:40 UTC
+ Last Updated on 16/07/2023 16:40:02 UTC
 <!--END_SECTION:waka-->
