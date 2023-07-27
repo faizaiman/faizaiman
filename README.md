@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,20 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████████   100.00 % 
+Python                   28 mins             ███████████████░░░░░░░░░░   60.43 % 
+HTML                     17 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vristo-php-main          0 secs              █████████████████████████   100.00 % 
+FaceRecognition          46 mins             █████████████████████████   98.38 % 
+vristo-php-main          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -81,5 +85,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2023 16:12:47 UTC
+ Last Updated on 27/07/2023 16:37:45 UTC
 <!--END_SECTION:waka-->
