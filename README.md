@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,5 +83,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2023 18:13:25 UTC
+ Last Updated on 26/09/2023 18:35:55 UTC
 <!--END_SECTION:waka-->
