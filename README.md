@@ -17,8 +17,6 @@
 
 > 📦 56.8 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -87,5 +85,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 05:36:34 UTC
+ Last Updated on 26/10/2023 06:13:39 UTC
 <!--END_SECTION:waka-->
