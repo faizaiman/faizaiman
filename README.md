@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,14 +64,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in PHP** 
 
 ```text
-Dart                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Dart                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2023 15:10:49 UTC
+ Last Updated on 09/11/2023 15:35:07 UTC
 <!--END_SECTION:waka-->
