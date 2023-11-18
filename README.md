@@ -17,6 +17,8 @@
 
 > 📦 57.4 kB Used in GitHub's Storage 
  > 
+> 🏆 32 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -83,5 +85,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 09:09:34 UTC
+ Last Updated on 18/11/2023 09:34:20 UTC
 <!--END_SECTION:waka-->
