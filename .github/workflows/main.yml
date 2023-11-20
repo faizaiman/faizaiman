@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs every 30 minutes in Malaysia timezone
-    - cron: '0,30 * * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
