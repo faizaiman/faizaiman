@@ -52,19 +52,16 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr 33 mins        ██████████████████░░░░░░░   72.86 % 
-Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hairhub                  1 hr 33 mins        ██████████████████░░░░░░░   72.86 % 
-FaceRecognition          34 mins             ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -84,5 +81,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 00:28:44 UTC
+ Last Updated on 23/11/2023 12:10:30 UTC
 <!--END_SECTION:waka-->
