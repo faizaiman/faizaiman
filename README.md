@@ -9,13 +9,13 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 57.6 kB Used in GitHub's Storage 
+> 📦 57.7 kB Used in GitHub's Storage 
  > 
 > 🏆 34 Contributions in the Year 2023
  > 
@@ -52,16 +52,24 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.00 % 
+Dart                     5 mins              ████████████░░░░░░░░░░░░░   46.23 % 
+Java                     4 mins              █████████░░░░░░░░░░░░░░░░   34.98 % 
+Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              ████████████████░░░░░░░░░   65.02 % 
+Android Studio           4 mins              █████████░░░░░░░░░░░░░░░░   34.98 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          2 mins              █████████████████████████   100.00 % 
+gohomestay               5 mins              ████████████░░░░░░░░░░░░░   46.44 % 
+My Application           4 mins              █████████░░░░░░░░░░░░░░░░   34.98 % 
+FaceRecognition          2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Mac                      10 mins             ████████████████████░░░░░   81.42 % 
+Windows                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,5 +89,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2023 00:30:35 UTC
+ Last Updated on 26/11/2023 12:09:16 UTC
 <!--END_SECTION:waka-->
