@@ -9,13 +9,13 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 57.7 kB Used in GitHub's Storage 
+> 📦 57.8 kB Used in GitHub's Storage 
  > 
 > 🏆 34 Contributions in the Year 2023
  > 
@@ -89,5 +89,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 12:10:47 UTC
+ Last Updated on 05/12/2023 00:29:26 UTC
 <!--END_SECTION:waka-->
