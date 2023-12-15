@@ -9,13 +9,13 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.5 kB Used in GitHub's Storage 
+> 📦 98.6 kB Used in GitHub's Storage 
  > 
 > 🏆 34 Contributions in the Year 2023
  > 
@@ -52,22 +52,22 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   8 hrs 28 mins       ███████████████░░░░░░░░░░   58.58 % 
-HTML                     5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   6 hrs 25 mins       ████████████████░░░░░░░░░   64.09 % 
+HTML                     3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          14 hrs 27 mins      █████████████████████████   99.98 % 
-facial_recognition_flask 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+FaceRecognition          10 hrs 1 min        █████████████████████████   99.97 % 
+facial_recognition_flask 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      8 hrs 32 mins       ███████████████░░░░░░░░░░   59.10 % 
-Windows                  5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.90 % 
+Mac                      8 hrs 32 mins       █████████████████████░░░░   85.24 % 
+Windows                  1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -87,5 +87,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2023 00:29:35 UTC
+ Last Updated on 15/12/2023 12:10:37 UTC
 <!--END_SECTION:waka-->
