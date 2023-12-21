@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,19 +52,20 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       ███████████████████░░░░░░   74.99 % 
-HTML                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   1 hr                ████████████████████░░░░░   81.73 % 
+HTML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          3 hrs 18 mins       █████████████████████████   100.00 % 
+FaceRecognition          1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   99.40 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -84,5 +85,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2023 00:28:33 UTC
+ Last Updated on 21/12/2023 12:10:24 UTC
 <!--END_SECTION:waka-->
