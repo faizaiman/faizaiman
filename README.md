@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,5 +86,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2024 12:10:29 UTC
+ Last Updated on 03/01/2024 00:28:30 UTC
 <!--END_SECTION:waka-->
