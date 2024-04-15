@@ -9,8 +9,6 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -23,45 +21,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-🌆 Daytime                89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌃 Evening                142 commits         █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌙 Night                  161 commits         ██████████░░░░░░░░░░░░░░░   39.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Tuesday                  159 commits         ██████████░░░░░░░░░░░░░░░   38.69 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -79,5 +38,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 14:35:00 UTC
+ Last Updated on 15/04/2024 02:58:50 UTC
 <!--END_SECTION:waka-->
