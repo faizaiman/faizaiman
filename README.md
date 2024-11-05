@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,19 +52,16 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      3 hrs 29 mins       █████████████████████░░░░   85.33 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+PHP                      15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FoodsFly-a-food-ordering-4 hrs 5 mins        █████████████████████████   100.00 % 
+FoodsFly-a-food-ordering-15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -84,5 +81,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 00:36:47 UTC
+ Last Updated on 05/11/2024 12:14:46 UTC
 <!--END_SECTION:waka-->
