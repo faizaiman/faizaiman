@@ -9,7 +9,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,17 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      15 mins             █████████████████████████   100.00 % 
+Python                   15 mins             ██████████████████████░░░   88.14 % 
+HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FoodsFly-a-food-ordering-15 mins             █████████████████████████   100.00 % 
+FaceRecognition          17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,5 +82,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2024 00:36:46 UTC
+ Last Updated on 06/11/2024 12:14:43 UTC
 <!--END_SECTION:waka-->
