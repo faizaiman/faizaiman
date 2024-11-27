@@ -52,17 +52,16 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      28 mins             ████████████████████████░   97.94 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -82,5 +81,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 00:40:11 UTC
+ Last Updated on 27/11/2024 12:15:35 UTC
 <!--END_SECTION:waka-->
