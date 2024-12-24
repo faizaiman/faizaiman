@@ -1,6 +1,6 @@
 <h2> Hello👋, I'm Mohamad Faiz Aiman! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-### 📚 I'm fresh graduate from UnKL MIIT (University Kuala Lumpur Malaysian Institute of Information Technology 🇲🇾)
+### 📚 I'm fresh graduate from UnKL MIIT (University Kuala Lumpur Malaysian Institute of Information Technology)
 ###  🔭 I'm currently looking for a full time job as software developer or Software Tester
 ###  ❤️ I like to talk about tech 
 
