@@ -10,13 +10,15 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,16 +53,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      53 mins             ███████████████████████░░   93.79 % 
+Blade Template           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Inventory                38 mins             █████████████████░░░░░░░░   67.03 % 
+cartridgeEMS             18 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -80,5 +87,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 00:37:23 UTC
+ Last Updated on 25/12/2024 12:14:14 UTC
 <!--END_SECTION:waka-->
