@@ -10,13 +10,15 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 160.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +53,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      5 hrs 44 mins       ████████████████████████░   94.19 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+PHP                      6 hrs 54 mins       ████████████████████████░   96.63 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Blade Template           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Inventory                5 hrs 59 mins       █████████████████████████   98.44 % 
-cartridgeEMS             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Inventory                7 hrs 3 mins        █████████████████████████   98.67 % 
+cartridgeEMS             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -85,5 +87,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 00:36:35 UTC
+ Last Updated on 17/01/2025 12:14:00 UTC
 <!--END_SECTION:waka-->
