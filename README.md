@@ -10,13 +10,15 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +53,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      6 hrs 27 mins       ███████████████░░░░░░░░░░   59.83 % 
-Blade Template           4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.39 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+PHP                      6 hrs 56 mins       ██████████████░░░░░░░░░░░   56.44 % 
+Blade Template           4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Inventory                10 hrs 47 mins      █████████████████████████   99.87 % 
-framework                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Inventory                12 hrs 17 mins      █████████████████████████   99.89 % 
+framework                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -85,5 +87,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 00:37:30 UTC
+ Last Updated on 29/01/2025 12:14:19 UTC
 <!--END_SECTION:waka-->
