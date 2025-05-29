@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,18 +51,17 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr 31 mins        █████████████████████████   100.00 % 
+PHP                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         ██████████████████░░░░░░░   72.48 % 
-Cursor                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+VS Code                  58 mins             ██████████████████░░░░░░░   73.03 % 
+Cursor                   21 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
 
 🐱‍💻 Projects: 
-StudyCi4                 1 hr 25 mins        ████████████████████████░   94.36 % 
-psychometric             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+StudyCi4                 1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -82,5 +81,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 00:43:58 UTC
+ Last Updated on 29/05/2025 12:16:42 UTC
 <!--END_SECTION:waka-->
