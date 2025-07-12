@@ -10,13 +10,15 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 162.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +53,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      27 mins             █████████████████████████   100.00 % 
+PHP                      40 mins             ████████████████████████░   97.16 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ptts-poc                 22 mins             █████████████████████░░░░   82.23 % 
-admpanel                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+ptts-poc                 22 mins             █████████████░░░░░░░░░░░░   52.89 % 
+admpanel                 19 mins             ████████████░░░░░░░░░░░░░   47.11 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,5 +87,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 00:47:42 UTC
+ Last Updated on 12/07/2025 12:15:25 UTC
 <!--END_SECTION:waka-->
