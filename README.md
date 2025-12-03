@@ -10,9 +10,9 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,18 +53,18 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      7 hrs 8 mins        █████████████████████████   99.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+PHP                      10 hrs 32 mins      █████████████████████████   99.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 5 mins        █████████████████████████   99.36 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Cursor                   10 hrs 29 mins      █████████████████████████   99.57 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-s4pa                     7 hrs 8 mins        █████████████████████████   100.00 % 
+s4pa                     10 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 00:45:03 UTC
+ Last Updated on 03/12/2025 12:19:14 UTC
 <!--END_SECTION:waka-->
