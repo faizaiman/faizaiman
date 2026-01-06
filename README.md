@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -53,19 +53,16 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 23 mins       ██████████████████████░░░   86.33 % 
-Python                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+PHP                      2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     4 hrs 23 mins       ██████████████████████░░░   86.33 % 
-lofy-assistant-core      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+s4pa                     2 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +82,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 00:49:15 UTC
+ Last Updated on 06/01/2026 12:20:14 UTC
 <!--END_SECTION:waka-->
