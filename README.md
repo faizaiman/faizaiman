@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,17 +53,17 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      37 mins             ███████████████████████░░   92.86 % 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PHP                      28 mins             ███████████████████████░░   91.03 % 
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🔥 Editors: 
-Cursor                   39 mins             █████████████████████████   100.00 % 
+Cursor                   31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     39 mins             █████████████████████████   100.00 % 
+s4pa                     31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +83,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 01:01:41 UTC
+ Last Updated on 03/02/2026 12:30:00 UTC
 <!--END_SECTION:waka-->
