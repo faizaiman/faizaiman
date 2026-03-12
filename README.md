@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,18 +53,18 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 48 mins       █████████████████████████   98.09 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+PHP                      3 hrs 10 mins       ████████████████████████░   97.14 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 24 mins       ██████████████████████░░░   89.77 % 
-VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Cursor                   2 hrs 54 mins       ██████████████████████░░░   88.97 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 
 🐱‍💻 Projects: 
-s4pa                     4 hrs 54 mins       █████████████████████████   100.00 % 
+s4pa                     3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 00:54:19 UTC
+ Last Updated on 12/03/2026 12:30:07 UTC
 <!--END_SECTION:waka-->
