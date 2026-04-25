@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,49 +26,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌙 Night                  182 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
-Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-PHP                      11 hrs 4 mins       ████████████████████████░   94.91 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🔥 Editors: 
-Cursor                   11 hrs 39 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-s4pa                     11 hrs 39 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -86,5 +43,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2026 01:13:12 UTC
+ Last Updated on 25/04/2026 12:34:19 UTC
 <!--END_SECTION:waka-->
