@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,20 +53,20 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      10 hrs 1 min        ████████████████████████░   95.01 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+PHP                      9 hrs 23 mins       ████████████████████████░   94.75 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 32 mins      █████████████████████████   100.00 % 
+Cursor                   9 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     10 hrs 32 mins      █████████████████████████   100.00 % 
+s4pa                     9 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +86,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 01:22:45 UTC
+ Last Updated on 27/04/2026 13:12:20 UTC
 <!--END_SECTION:waka-->
