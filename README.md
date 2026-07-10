@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,19 +53,17 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 14 mins       █████████████████████████   99.11 % 
-Image (png)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+PHP                      2 hrs 48 mins       █████████████████████████   99.70 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 17 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     4 hrs 16 mins       █████████████████████████   99.63 % 
-assets                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+s4pa                     2 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -85,5 +83,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 01:25:06 UTC
+ Last Updated on 10/07/2026 13:50:11 UTC
 <!--END_SECTION:waka-->
