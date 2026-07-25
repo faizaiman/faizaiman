@@ -10,6 +10,8 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2013%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -51,19 +53,18 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      2 hrs 20 mins       ████████████████████████░   94.98 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+PHP                      37 mins             ███████████████████████░░   90.55 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     2 hrs 27 mins       █████████████████████████   99.90 % 
-uploads                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+s4pa                     41 mins             █████████████████████████   99.65 % 
+uploads                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -83,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:21:46 UTC
+ Last Updated on 25/07/2026 12:54:02 UTC
 <!--END_SECTION:waka-->
