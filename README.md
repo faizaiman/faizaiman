@@ -55,39 +55,37 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      53 mins             ███████████████████████░░   93.09 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+PHP                      18 mins             █████████████████████████   99.84 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Cursor                   56 mins             █████████████████████████   100.00 % 
+Cursor                   18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     56 mins             █████████████████████████   99.74 % 
-uploads                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+s4pa                     18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (52.59%)
+⏱ AI Coding Time: 4 mins (24.94%)
 
-✍️ 78 lines written by AI, 4 lines written by hand (95.12% AI-written)
+✍️ 60 lines written by AI, 2 lines written by hand (96.77% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.12% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.36% of changed lines were hand-edited
+🤖 AI-Driven — 96.77% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 10.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -107,5 +105,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:18:13 UTC
+ Last Updated on 29/07/2026 13:30:42 UTC
 <!--END_SECTION:waka-->
