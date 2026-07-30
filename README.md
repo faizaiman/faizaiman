@@ -55,37 +55,37 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      18 mins             █████████████████████████   99.84 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+PHP                      15 mins             █████████████████████████   99.80 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Cursor                   18 mins             █████████████████████████   100.00 % 
+Cursor                   15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     18 mins             █████████████████████████   100.00 % 
+s4pa                     15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (24.94%)
+⏱ AI Coding Time: 2 mins (12.98%)
 
-✍️ 60 lines written by AI, 2 lines written by hand (96.77% AI-written)
+✍️ 18 lines written by AI, 1 lines written by hand (94.74% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.77% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.45% of changed lines were hand-edited
+🤖 AI-Driven — 94.74% of written lines came from AI
+📝 Concise Prompter — average 66 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -105,5 +105,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 01:11:31 UTC
+ Last Updated on 30/07/2026 13:20:52 UTC
 <!--END_SECTION:waka-->
