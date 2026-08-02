@@ -28,6 +28,66 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌙 Night                  182 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+PHP                      2 hrs 24 mins       █████████████████████████   99.98 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 24 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+s4pa                     2 hrs 24 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 19 mins (54.65%)
+
+✍️ 458 lines written by AI, 342 lines written by hand (57.25% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 56 AI Prompts
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 57.25% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 46.72% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -45,5 +105,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 12:48:17 UTC
+ Last Updated on 02/08/2026 01:23:40 UTC
 <!--END_SECTION:waka-->
