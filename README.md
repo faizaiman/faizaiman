@@ -55,43 +55,43 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      3 hrs 35 mins       █████████████████████████   98.24 % 
-Image (png)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      2 hrs 22 mins       ████████████████████████░   97.79 % 
+Image (png)              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 14 mins       ██████████████████████░░░   88.67 % 
-VS Code                  24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Cursor                   2 hrs               █████████████████████░░░░   82.96 % 
+VS Code                  24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 
 🐱‍💻 Projects: 
-s4pa                     3 hrs 36 mins       █████████████████████████   98.79 % 
-assets                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-s4pa-stg                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+s4pa                     2 hrs 23 mins       █████████████████████████   98.63 % 
+s4pa-stg                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+assets                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (87.67%)
+⏱ AI Coding Time: 2 hrs (82.91%)
 
-✍️ 3,617 lines written by AI, 21 lines written by hand (99.42% AI-written)
+✍️ 840 lines written by AI, 21 lines written by hand (97.56% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 88 AI Prompts
+🧠 5 AI Sessions, 48 AI Prompts
 
 Cursor                   113 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 4.81% of changed lines were hand-edited
+🤖 AI-Driven — 97.56% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 13.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -111,5 +111,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 00:42:34 UTC
+ Last Updated on 09/08/2026 12:22:14 UTC
 <!--END_SECTION:waka-->
