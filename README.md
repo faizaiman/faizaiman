@@ -10,9 +10,9 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -55,48 +55,49 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      4 hrs 7 mins        █████████████████████████   99.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP                      4 hrs 16 mins       █████████████████████████   99.67 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 32 mins       █████████████████████░░░░   85.64 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Agent                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Cursor                   3 hrs 40 mins       █████████████████████░░░░   85.51 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Agent                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🐱‍💻 Projects: 
-s4pa                     3 hrs 57 mins       ████████████████████████░   95.77 % 
-s4pa-stg                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-uploads                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+s4pa                     4 hrs 8 mins        ████████████████████████░   96.52 % 
+s4pa-stg                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+uploads                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 2d38499c-f10c-4138-9f2a-80 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-27b5c869-18fb-448d-bb11-e0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+27b5c869-18fb-448d-bb11-e0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (79.19%)
+⏱ AI Coding Time: 3 hrs 28 mins (81.1%)
 
-✍️ 1,253 lines written by AI, 195 lines written by hand (86.53% AI-written)
+✍️ 1,290 lines written by AI, 203 lines written by hand (86.4% AI-written)
 
-🔤 4,761 Input Tokens, 4,761 Output Tokens
+🔤 2,919 Input Tokens, 2,919 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.05 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 141 AI Prompts
+🧠 12 AI Sessions, 135 AI Prompts
 
-Cursor                   16 lines            █████████████████████████   100.00 % 
+Opus                     31 lines            ████████████████░░░░░░░░░   65.96 % 
+Cursor                   16 lines            █████████░░░░░░░░░░░░░░░░   34.04 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.53% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 24.53% of changed lines were hand-edited
+🤖 AI-Driven — 86.4% of written lines came from AI
+📝 Concise Prompter — average 141 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 24.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -116,5 +117,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:28:49 UTC
+ Last Updated on 19/08/2026 12:18:30 UTC
 <!--END_SECTION:waka-->
