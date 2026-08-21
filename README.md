@@ -28,6 +28,75 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌙 Night                  182 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+PHP                      2 hrs 43 mins       █████████████████████████   98.78 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 18 mins       █████████████████████░░░░   83.35 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Agent                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+
+🐱‍💻 Projects: 
+s4pa                     2 hrs 37 mins       ████████████████████████░   95.02 % 
+s4pa-stg                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+
+💻 Operating System: 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 1 min (73.51%)
+
+✍️ 357 lines written by AI, 76 lines written by hand (82.45% AI-written)
+
+🔤 1,941 Input Tokens, 1,941 Output Tokens
+
+💵 $0.03 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 77 AI Prompts
+
+Opus                     31 lines            ████████████████░░░░░░░░░   65.96 % 
+Cursor                   16 lines            █████████░░░░░░░░░░░░░░░░   34.04 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.45% of written lines came from AI
+📝 Concise Prompter — average 161 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 57.76% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -45,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 12:20:29 UTC
+ Last Updated on 21/08/2026 00:31:18 UTC
 <!--END_SECTION:waka-->
