@@ -55,43 +55,42 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      3 hrs 23 mins       █████████████████████████   99.02 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+PHP                      2 hrs 43 mins       █████████████████████████   98.78 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 18 mins       ████████████████████████░   96.83 % 
-Agent                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Cursor                   2 hrs 44 mins       █████████████████████████   98.87 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-s4pa                     3 hrs 25 mins       █████████████████████████   100.00 % 
+s4pa                     2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (78.62%)
+⏱ AI Coding Time: 2 hrs 7 mins (76.92%)
 
-✍️ 477 lines written by AI, 91 lines written by hand (83.98% AI-written)
+✍️ 421 lines written by AI, 58 lines written by hand (87.89% AI-written)
 
-🔤 552 Input Tokens, 552 Output Tokens
+🔤 380 Input Tokens, 380 Output Tokens
 
 💵 $0.01 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 86 AI Prompts
+🧠 6 AI Sessions, 67 AI Prompts
 
-Opus                     31 lines            █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.98% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
+🤖 AI-Driven — 87.89% of written lines came from AI
+📝 Concise Prompter — average 99 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 30.66% of changed lines were hand-edited
+🚀 High AI Trust — 29.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -111,5 +110,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 00:30:55 UTC
+ Last Updated on 26/08/2026 12:23:13 UTC
 <!--END_SECTION:waka-->
