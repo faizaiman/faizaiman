@@ -28,6 +28,70 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌙 Night                  182 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+PHP                      1 hr 4 mins         █████████████████████░░░░   83.12 % 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+
+🔥 Editors: 
+Cursor                   1 hr 16 mins        ████████████████████████░   97.59 % 
+Agent                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+
+🐱‍💻 Projects: 
+s4pa                     1 hr 16 mins        ████████████████████████░   97.80 % 
+Downloads                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+
+💻 Operating System: 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 58 mins (74.58%)
+
+✍️ 803 lines written by AI, 6 lines written by hand (99.26% AI-written)
+
+🔤 35 Input Tokens, 35 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 38 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.26% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 3.45% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -45,5 +109,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 07:16:48 UTC
+ Last Updated on 28/08/2026 21:33:56 UTC
 <!--END_SECTION:waka-->
