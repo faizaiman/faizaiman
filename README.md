@@ -55,41 +55,38 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr 4 mins         █████████████████████░░░░   83.12 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+PHP                      25 mins             ████████████████░░░░░░░░░   65.82 % 
+HTML                     13 mins             █████████░░░░░░░░░░░░░░░░   34.18 % 
 
 🔥 Editors: 
-Cursor                   1 hr 16 mins        ████████████████████████░   97.59 % 
-Agent                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Cursor                   38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     1 hr 16 mins        ████████████████████████░   97.80 % 
-Downloads                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+s4pa                     36 mins             ████████████████████████░   95.54 % 
+Downloads                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (74.58%)
+⏱ AI Coding Time: 24 mins (62.85%)
 
-✍️ 803 lines written by AI, 6 lines written by hand (99.26% AI-written)
+✍️ 648 lines written by AI, 2 lines written by hand (99.69% AI-written)
 
-🔤 35 Input Tokens, 35 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 38 AI Prompts
-
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 13 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🚀 High AI Trust — 0.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -109,5 +106,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 21:33:56 UTC
+ Last Updated on 29/08/2026 04:28:02 UTC
 <!--END_SECTION:waka-->
