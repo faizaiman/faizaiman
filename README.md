@@ -55,45 +55,44 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      2 hrs 27 mins       ███████████████████████░░   91.28 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PHP                      2 hrs 2 mins        █████████████████████████   99.28 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 39 mins       █████████████████████████   98.63 % 
-Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Cursor                   2 hrs               █████████████████████████   98.21 % 
+Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-s4pa                     2 hrs 39 mins       █████████████████████████   98.75 % 
-Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-90bcb678-7a04-4374-8675-50 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+s4pa                     2 hrs 2 mins        █████████████████████████   99.76 % 
+90bcb678-7a04-4374-8675-50 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (85.66%)
+⏱ AI Coding Time: 1 hr 54 mins (92.83%)
 
-✍️ 1,716 lines written by AI, 64 lines written by hand (96.4% AI-written)
+✍️ 1,068 lines written by AI, 62 lines written by hand (94.51% AI-written)
 
-🔤 1,565 Input Tokens, 1,565 Output Tokens
+🔤 1,667 Input Tokens, 1,667 Output Tokens
 
 💵 $0.03 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 71 AI Prompts
+🧠 7 AI Sessions, 64 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.4% of written lines came from AI
-📝 Concise Prompter — average 263 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.63% of changed lines were hand-edited
+🤖 AI-Driven — 94.51% of written lines came from AI
+📝 Concise Prompter — average 284 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -113,5 +112,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 01:34:49 UTC
+ Last Updated on 04/09/2026 15:15:05 UTC
 <!--END_SECTION:waka-->
