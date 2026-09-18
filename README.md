@@ -10,9 +10,9 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -55,45 +55,48 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      3 hrs 5 mins        █████████████████████░░░░   85.40 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+PHP                      3 hrs 56 mins       ██████████████████████░░░   88.11 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 10 mins       ██████████████████████░░░   87.46 % 
-Agent                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Cursor                   3 hrs 23 mins       ███████████████████░░░░░░   75.77 % 
+VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Agent                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 
 🐱‍💻 Projects: 
-s4pa                     3 hrs 17 mins       ███████████████████████░░   90.82 % 
-plans                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+s4pa                     3 hrs 53 mins       ██████████████████████░░░   86.97 % 
+plans                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+s4pa-training            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (89.0%)
+⏱ AI Coding Time: 4 hrs (89.6%)
 
-✍️ 1,727 lines written by AI, 126 lines written by hand (93.2% AI-written)
+✍️ 1,807 lines written by AI, 85 lines written by hand (95.51% AI-written)
 
-🔤 204 Input Tokens, 204 Output Tokens
+🔤 85 Input Tokens, 85 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 106 AI Prompts
+🧠 12 AI Sessions, 102 AI Prompts
 
+Cursor                   29 lines            █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.2% of written lines came from AI
-📝 Concise Prompter — average 63 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 8.37% of changed lines were hand-edited
+🤖 AI-Driven — 95.51% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 6.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -113,5 +116,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 01:46:31 UTC
+ Last Updated on 18/09/2026 15:17:38 UTC
 <!--END_SECTION:waka-->
