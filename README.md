@@ -10,9 +10,9 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -55,47 +55,48 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      3 hrs 58 mins       ████████████████████████░   95.09 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-INI                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP                      3 hrs 50 mins       █████████████████████████   99.29 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 6 mins        ███████████████████░░░░░░   74.06 % 
-VS Code                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Agent                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Cursor                   2 hrs 30 mins       ████████████████░░░░░░░░░   64.86 % 
+VS Code                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Agent                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 🐱‍💻 Projects: 
-s4pa                     3 hrs 55 mins       ███████████████████████░░   93.60 % 
-s4pa-training            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-plans                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+s4pa                     3 hrs 19 mins       ██████████████████████░░░   86.25 % 
+s4pa-training            25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+s4pa-stg                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+plans                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (87.46%)
+⏱ AI Coding Time: 2 hrs 34 mins (66.69%)
 
-✍️ 1,729 lines written by AI, 85 lines written by hand (95.31% AI-written)
+✍️ 522 lines written by AI, 160 lines written by hand (76.54% AI-written)
 
-🔤 85 Input Tokens, 85 Output Tokens
+🔤 102 Input Tokens, 102 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 86 AI Prompts
+🧠 12 AI Sessions, 52 AI Prompts
 
 Cursor                   29 lines            █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.31% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.01% of changed lines were hand-edited
+🤖 AI-Driven — 76.54% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 23.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -115,5 +116,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 17:16:24 UTC
+ Last Updated on 22/09/2026 02:02:50 UTC
 <!--END_SECTION:waka-->
