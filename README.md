@@ -10,11 +10,11 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,31 +55,31 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      2 hrs 42 mins       ████████████████████████░   96.83 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+PHP                      2 hrs 50 mins       ████████████████████████░   96.98 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 38 mins       ████████████████████████░   94.37 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Cursor                   2 hrs 43 mins       ███████████████████████░░   92.82 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-s4pa                     2 hrs 38 mins       ████████████████████████░   94.93 % 
-s4pa-training            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+s4pa                     2 hrs 43 mins       ███████████████████████░░   93.36 % 
+s4pa-training            11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.82%)
+⏱ AI Coding Time: 1 min (0.79%)
 
-✍️ 0 lines written by AI, 1,232 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 977 lines written by hand (0.0% AI-written)
 
 🔤 963 Input Tokens, 963 Output Tokens
 
@@ -113,5 +113,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 17:07:21 UTC
+ Last Updated on 30/09/2026 02:37:48 UTC
 <!--END_SECTION:waka-->
