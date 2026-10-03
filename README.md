@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%203%20mins-blue?style=flat)
 
@@ -55,22 +55,18 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr 55 mins        ████████████████████████░   96.45 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      1 hr 21 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 47 mins        ███████████████████████░░   90.11 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Cursor                   1 hr 18 mins        ████████████████████████░   95.90 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🐱‍💻 Projects: 
-s4pa                     1 hr 47 mins        ███████████████████████░░   90.11 % 
-s4pa-training            11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+s4pa                     1 hr 18 mins        ████████████████████████░   95.90 % 
+s4pa-training            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 16:54:34 UTC
+ Last Updated on 03/10/2026 02:31:50 UTC
 <!--END_SECTION:waka-->
