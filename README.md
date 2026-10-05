@@ -28,6 +28,53 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                178 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+🌙 Night                  182 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+PHP                      1 hr 17 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   1 hr 13 mins        ████████████████████████░   95.67 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+🐱‍💻 Projects: 
+s4pa                     1 hr 13 mins        ████████████████████████░   95.67 % 
+s4pa-training            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+💻 Operating System: 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -45,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 16:03:06 UTC
+ Last Updated on 05/10/2026 02:36:01 UTC
 <!--END_SECTION:waka-->
