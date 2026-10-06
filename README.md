@@ -10,7 +10,7 @@
 [![Linkedin: Faiz](https://img.shields.io/badge/-Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)](https://www.linkedin.com/in/mohamad-faiz-aiman-623747192/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%203%20mins-blue?style=flat)
 
@@ -55,18 +55,18 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr 17 mins        █████████████████████████   100.00 % 
+PHP                      1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 13 mins        ████████████████████████░   95.67 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Cursor                   1 hr 3 mins         ████████████████████████░   95.03 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-s4pa                     1 hr 13 mins        ████████████████████████░   95.67 % 
-s4pa-training            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+s4pa                     1 hr 3 mins         ████████████████████████░   95.03 % 
+s4pa-training            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 19:49:40 UTC
+ Last Updated on 06/10/2026 03:29:51 UTC
 <!--END_SECTION:waka-->
