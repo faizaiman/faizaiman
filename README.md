@@ -55,31 +55,30 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      56 mins             ██████████████████████░░░   87.70 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-VB.NET                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+PHP                      50 mins             ██████████████████████░░░   86.31 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+VB.NET                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Cursor                   35 mins             ██████████████░░░░░░░░░░░   54.16 % 
-Agent                    21 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
-VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Cursor                   28 mins             ████████████░░░░░░░░░░░░░   49.24 % 
+Agent                    21 mins             █████████░░░░░░░░░░░░░░░░   37.76 % 
+VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     56 mins             ██████████████████████░░░   87.46 % 
-trunk                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-fms-indexing-dev         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-s4pa-training            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+s4pa                     50 mins             ██████████████████████░░░   86.31 % 
+trunk                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+fms-indexing-dev         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.84%)
+⏱ AI Coding Time: 0 secs (0.94%)
 
-✍️ 0 lines written by AI, 114 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 111 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -111,5 +110,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 18:04:07 UTC
+ Last Updated on 09/10/2026 03:17:38 UTC
 <!--END_SECTION:waka-->
