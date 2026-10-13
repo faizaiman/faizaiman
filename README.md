@@ -55,40 +55,40 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      1 hr                ██████████████████████░░░   88.31 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-VB.NET                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+PHP                      41 mins             █████████████████████░░░░   84.03 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+VB.NET                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Cursor                   38 mins             ██████████████░░░░░░░░░░░   56.66 % 
-Agent                    21 mins             ████████░░░░░░░░░░░░░░░░░   32.24 % 
-VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Agent                    21 mins             ███████████░░░░░░░░░░░░░░   44.05 % 
+Cursor                   20 mins             ██████████░░░░░░░░░░░░░░░   40.78 % 
+VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 🐱‍💻 Projects: 
-s4pa                     1 hr                ██████████████████████░░░   88.31 % 
-trunk                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-fms-indexing-dev         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+s4pa                     41 mins             █████████████████████░░░░   84.03 % 
+trunk                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+fms-indexing-dev         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.8%)
+⏱ AI Coding Time: 0 secs (1.09%)
 
-✍️ 0 lines written by AI, 147 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 128 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
+📝 Concise Prompter — average 156 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -110,5 +110,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 20:29:38 UTC
+ Last Updated on 13/10/2026 04:07:09 UTC
 <!--END_SECTION:waka-->
