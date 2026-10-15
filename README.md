@@ -55,38 +55,23 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      43 mins             ████████████████████░░░░░   80.76 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+PHP                      17 mins             ████████████████░░░░░░░░░   62.09 % 
+Markdown                 10 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
 
 🔥 Editors: 
-Cursor                   34 mins             ████████████████░░░░░░░░░   64.43 % 
-Agent                    19 mins             █████████░░░░░░░░░░░░░░░░   35.57 % 
+Cursor                   27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-s4pa                     54 mins             █████████████████████████   100.00 % 
+s4pa                     27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (1.01%)
-
-✍️ 0 lines written by AI, 277 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -106,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 16:02:28 UTC
+ Last Updated on 15/10/2026 02:01:37 UTC
 <!--END_SECTION:waka-->
