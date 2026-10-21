@@ -55,20 +55,20 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      50 mins             █████████████████████░░░░   82.87 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+PHP                      46 mins             █████████████████████████   99.95 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   57 mins             ███████████████████████░░   93.58 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Cursor                   42 mins             ███████████████████████░░   91.57 % 
+VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🐱‍💻 Projects: 
-s4pa                     57 mins             ███████████████████████░░   93.58 % 
-s4pa-training            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-s4pa-stg                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+s4pa                     42 mins             ███████████████████████░░   91.57 % 
+s4pa-training            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+s4pa-stg                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 02:11:50 UTC
+ Last Updated on 21/10/2026 16:11:37 UTC
 <!--END_SECTION:waka-->
