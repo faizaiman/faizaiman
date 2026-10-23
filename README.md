@@ -55,19 +55,18 @@ Sunday                   70 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-PHP                      46 mins             █████████████████████████   100.00 % 
+PHP                      19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   42 mins             ███████████████████████░░   91.50 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Cursor                   17 mins             ██████████████████████░░░   87.98 % 
+VS Code                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 🐱‍💻 Projects: 
-s4pa                     42 mins             ███████████████████████░░   91.50 % 
-s4pa-training            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-s4pa-stg                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+s4pa                     17 mins             ██████████████████████░░░   87.98 % 
+s4pa-training            2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faizaiman/faizaiman/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 16:09:43 UTC
+ Last Updated on 23/10/2026 02:11:06 UTC
 <!--END_SECTION:waka-->
